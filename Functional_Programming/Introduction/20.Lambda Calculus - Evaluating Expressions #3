@@ -1,0 +1,2 @@
+λx.λy.(x^47)y
+47  (Church numerals)

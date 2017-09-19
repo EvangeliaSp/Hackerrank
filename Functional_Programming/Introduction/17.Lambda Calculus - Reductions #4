@@ -1,0 +1,4 @@
+(λg.((λf.((λx.(f (x x)))(λx.(f (x x))))) g))
+b-> (λg.((λx.(g (x x)))(λx.(g (x x)))))
+b-> (λg.(g ((λx.(g (x x))) (λx.(g (x x))))))
+CAN'T REDUCE
